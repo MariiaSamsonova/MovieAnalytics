@@ -1,0 +1,210 @@
+[2022-06-16 12:15:24,909] {processor.py:163} INFO - Started process (PID=1216) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:15:24,911] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:15:24,912] {logging_mixin.py:109} INFO - [2022-06-16 12:15:24,912] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:15:25,584] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:15:25,597] {logging_mixin.py:109} INFO - [2022-06-16 12:15:25,597] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:15:25,614] {logging_mixin.py:109} INFO - [2022-06-16 12:15:25,613] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:15:25,657] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.751 seconds
+[2022-06-16 12:16:01,220] {processor.py:163} INFO - Started process (PID=1408) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:16:01,222] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:16:01,222] {logging_mixin.py:109} INFO - [2022-06-16 12:16:01,222] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:16:01,766] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:16:01,776] {logging_mixin.py:109} INFO - [2022-06-16 12:16:01,776] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:16:01,792] {logging_mixin.py:109} INFO - [2022-06-16 12:16:01,792] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:16:01,818] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.600 seconds
+[2022-06-16 12:16:33,006] {processor.py:163} INFO - Started process (PID=1746) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:16:33,008] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:16:33,008] {logging_mixin.py:109} INFO - [2022-06-16 12:16:33,008] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:16:33,453] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:16:33,461] {logging_mixin.py:109} INFO - [2022-06-16 12:16:33,460] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:16:33,471] {logging_mixin.py:109} INFO - [2022-06-16 12:16:33,471] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:16:33,485] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.481 seconds
+[2022-06-16 12:17:06,894] {processor.py:163} INFO - Started process (PID=1795) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:17:06,899] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:17:06,900] {logging_mixin.py:109} INFO - [2022-06-16 12:17:06,900] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:17:07,351] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:17:07,362] {logging_mixin.py:109} INFO - [2022-06-16 12:17:07,362] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:17:07,374] {logging_mixin.py:109} INFO - [2022-06-16 12:17:07,374] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:17:07,387] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.495 seconds
+[2022-06-16 12:17:40,379] {processor.py:163} INFO - Started process (PID=2013) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:17:40,381] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:17:40,382] {logging_mixin.py:109} INFO - [2022-06-16 12:17:40,382] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:17:41,215] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:17:41,242] {logging_mixin.py:109} INFO - [2022-06-16 12:17:41,238] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:17:41,267] {logging_mixin.py:109} INFO - [2022-06-16 12:17:41,266] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:17:41,295] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.920 seconds
+[2022-06-16 12:18:15,822] {processor.py:163} INFO - Started process (PID=2151) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:18:15,823] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:18:15,824] {logging_mixin.py:109} INFO - [2022-06-16 12:18:15,824] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:18:16,443] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:18:16,459] {logging_mixin.py:109} INFO - [2022-06-16 12:18:16,458] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:18:16,474] {logging_mixin.py:109} INFO - [2022-06-16 12:18:16,474] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:18:16,492] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.672 seconds
+[2022-06-16 12:18:46,775] {processor.py:163} INFO - Started process (PID=2188) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:18:46,777] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:18:46,778] {logging_mixin.py:109} INFO - [2022-06-16 12:18:46,778] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:18:47,301] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:18:47,311] {logging_mixin.py:109} INFO - [2022-06-16 12:18:47,310] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:18:47,320] {logging_mixin.py:109} INFO - [2022-06-16 12:18:47,320] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:18:47,335] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.563 seconds
+[2022-06-16 12:19:19,562] {processor.py:163} INFO - Started process (PID=2459) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:19:19,563] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:19:19,564] {logging_mixin.py:109} INFO - [2022-06-16 12:19:19,563] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:19:20,047] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:19:20,056] {logging_mixin.py:109} INFO - [2022-06-16 12:19:20,055] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:19:20,067] {logging_mixin.py:109} INFO - [2022-06-16 12:19:20,067] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:19:20,082] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.522 seconds
+[2022-06-16 12:19:53,379] {processor.py:163} INFO - Started process (PID=2676) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:19:53,380] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:19:53,381] {logging_mixin.py:109} INFO - [2022-06-16 12:19:53,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:19:53,837] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:19:53,845] {logging_mixin.py:109} INFO - [2022-06-16 12:19:53,845] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:19:53,854] {logging_mixin.py:109} INFO - [2022-06-16 12:19:53,854] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:19:53,867] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.490 seconds
+[2022-06-16 12:20:28,365] {processor.py:163} INFO - Started process (PID=2721) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:20:28,367] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:20:28,368] {logging_mixin.py:109} INFO - [2022-06-16 12:20:28,368] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:20:28,844] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:20:28,853] {logging_mixin.py:109} INFO - [2022-06-16 12:20:28,852] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:20:28,861] {logging_mixin.py:109} INFO - [2022-06-16 12:20:28,861] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:20:28,873] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.510 seconds
+[2022-06-16 12:21:03,621] {processor.py:163} INFO - Started process (PID=2763) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:21:03,623] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:21:03,623] {logging_mixin.py:109} INFO - [2022-06-16 12:21:03,623] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:21:04,068] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:21:04,077] {logging_mixin.py:109} INFO - [2022-06-16 12:21:04,076] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:21:04,086] {logging_mixin.py:109} INFO - [2022-06-16 12:21:04,085] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:21:04,098] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.478 seconds
+[2022-06-16 12:21:34,601] {processor.py:163} INFO - Started process (PID=2970) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:21:34,603] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:21:34,604] {logging_mixin.py:109} INFO - [2022-06-16 12:21:34,604] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:21:35,297] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:21:35,310] {logging_mixin.py:109} INFO - [2022-06-16 12:21:35,309] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:21:35,326] {logging_mixin.py:109} INFO - [2022-06-16 12:21:35,326] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:21:35,356] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.757 seconds
+[2022-06-16 12:22:06,775] {processor.py:163} INFO - Started process (PID=3140) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:22:06,776] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:22:06,777] {logging_mixin.py:109} INFO - [2022-06-16 12:22:06,777] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:22:07,373] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:22:07,384] {logging_mixin.py:109} INFO - [2022-06-16 12:22:07,384] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:22:07,399] {logging_mixin.py:109} INFO - [2022-06-16 12:22:07,399] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:22:07,415] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.642 seconds
+[2022-06-16 12:22:38,427] {processor.py:163} INFO - Started process (PID=3447) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:22:38,431] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:22:38,431] {logging_mixin.py:109} INFO - [2022-06-16 12:22:38,431] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:22:38,824] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:22:38,833] {logging_mixin.py:109} INFO - [2022-06-16 12:22:38,832] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:22:38,843] {logging_mixin.py:109} INFO - [2022-06-16 12:22:38,843] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:22:38,857] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.432 seconds
+[2022-06-16 12:23:09,658] {processor.py:163} INFO - Started process (PID=3492) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:23:09,659] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:23:09,659] {logging_mixin.py:109} INFO - [2022-06-16 12:23:09,659] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:23:10,137] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:23:10,145] {logging_mixin.py:109} INFO - [2022-06-16 12:23:10,144] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:23:10,153] {logging_mixin.py:109} INFO - [2022-06-16 12:23:10,153] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:23:10,165] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.510 seconds
+[2022-06-16 12:23:43,675] {processor.py:163} INFO - Started process (PID=3865) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:23:43,676] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:23:43,676] {logging_mixin.py:109} INFO - [2022-06-16 12:23:43,676] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:23:44,114] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:23:44,123] {logging_mixin.py:109} INFO - [2022-06-16 12:23:44,122] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:23:44,133] {logging_mixin.py:109} INFO - [2022-06-16 12:23:44,133] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:23:44,145] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.471 seconds
+[2022-06-16 12:24:16,516] {processor.py:163} INFO - Started process (PID=3922) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:24:16,517] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:24:16,518] {logging_mixin.py:109} INFO - [2022-06-16 12:24:16,518] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:24:16,970] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:24:16,979] {logging_mixin.py:109} INFO - [2022-06-16 12:24:16,979] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:24:16,988] {logging_mixin.py:109} INFO - [2022-06-16 12:24:16,988] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:24:17,003] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.489 seconds
+[2022-06-16 12:24:48,336] {processor.py:163} INFO - Started process (PID=3960) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:24:48,337] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:24:48,337] {logging_mixin.py:109} INFO - [2022-06-16 12:24:48,337] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:24:48,764] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:24:48,776] {logging_mixin.py:109} INFO - [2022-06-16 12:24:48,776] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:24:48,789] {logging_mixin.py:109} INFO - [2022-06-16 12:24:48,789] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:24:48,803] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.469 seconds
+[2022-06-16 12:25:19,724] {processor.py:163} INFO - Started process (PID=9738) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:25:19,726] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:25:19,727] {logging_mixin.py:109} INFO - [2022-06-16 12:25:19,727] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:25:20,216] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:25:20,228] {logging_mixin.py:109} INFO - [2022-06-16 12:25:20,227] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:25:20,238] {logging_mixin.py:109} INFO - [2022-06-16 12:25:20,238] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:25:20,252] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.530 seconds
+[2022-06-16 12:25:52,685] {processor.py:163} INFO - Started process (PID=9940) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:25:52,686] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:25:52,686] {logging_mixin.py:109} INFO - [2022-06-16 12:25:52,686] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:25:53,114] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:25:53,122] {logging_mixin.py:109} INFO - [2022-06-16 12:25:53,122] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:25:53,131] {logging_mixin.py:109} INFO - [2022-06-16 12:25:53,131] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:25:53,143] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.460 seconds
+[2022-06-16 12:26:24,747] {processor.py:163} INFO - Started process (PID=9993) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:26:24,747] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:26:24,748] {logging_mixin.py:109} INFO - [2022-06-16 12:26:24,748] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:26:25,289] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:26:25,297] {logging_mixin.py:109} INFO - [2022-06-16 12:26:25,297] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:26:25,307] {logging_mixin.py:109} INFO - [2022-06-16 12:26:25,307] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:26:25,322] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.577 seconds
+[2022-06-16 12:26:56,961] {processor.py:163} INFO - Started process (PID=10404) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:26:56,962] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:26:56,963] {logging_mixin.py:109} INFO - [2022-06-16 12:26:56,963] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:26:57,362] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:26:57,369] {logging_mixin.py:109} INFO - [2022-06-16 12:26:57,369] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:26:57,378] {logging_mixin.py:109} INFO - [2022-06-16 12:26:57,378] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:26:57,391] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.431 seconds
+[2022-06-16 12:27:29,451] {processor.py:163} INFO - Started process (PID=10445) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:27:29,452] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:27:29,453] {logging_mixin.py:109} INFO - [2022-06-16 12:27:29,453] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:27:29,856] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:27:29,865] {logging_mixin.py:109} INFO - [2022-06-16 12:27:29,864] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:27:29,873] {logging_mixin.py:109} INFO - [2022-06-16 12:27:29,873] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:27:29,887] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.437 seconds
+[2022-06-16 12:28:00,414] {processor.py:163} INFO - Started process (PID=10719) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:28:00,415] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:28:00,416] {logging_mixin.py:109} INFO - [2022-06-16 12:28:00,416] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:28:00,925] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:28:00,932] {logging_mixin.py:109} INFO - [2022-06-16 12:28:00,932] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:28:00,942] {logging_mixin.py:109} INFO - [2022-06-16 12:28:00,941] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:28:00,956] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.545 seconds
+[2022-06-16 12:28:31,856] {processor.py:163} INFO - Started process (PID=11021) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:28:31,857] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:28:31,858] {logging_mixin.py:109} INFO - [2022-06-16 12:28:31,858] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:28:32,274] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:28:32,285] {logging_mixin.py:109} INFO - [2022-06-16 12:28:32,285] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:28:32,297] {logging_mixin.py:109} INFO - [2022-06-16 12:28:32,297] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:28:32,311] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.457 seconds
+[2022-06-16 12:29:02,597] {processor.py:163} INFO - Started process (PID=11059) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:29:02,598] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:29:02,598] {logging_mixin.py:109} INFO - [2022-06-16 12:29:02,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:29:02,980] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:29:02,989] {logging_mixin.py:109} INFO - [2022-06-16 12:29:02,989] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:29:03,000] {logging_mixin.py:109} INFO - [2022-06-16 12:29:03,000] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:29:03,014] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.419 seconds
+[2022-06-16 12:29:34,202] {processor.py:163} INFO - Started process (PID=11106) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:29:34,203] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:29:34,204] {logging_mixin.py:109} INFO - [2022-06-16 12:29:34,203] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:29:34,592] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:29:34,599] {logging_mixin.py:109} INFO - [2022-06-16 12:29:34,599] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:29:34,609] {logging_mixin.py:109} INFO - [2022-06-16 12:29:34,609] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:29:34,622] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.422 seconds
+[2022-06-16 12:30:05,027] {processor.py:163} INFO - Started process (PID=11307) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:30:05,027] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:30:05,028] {logging_mixin.py:109} INFO - [2022-06-16 12:30:05,028] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:30:05,406] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:30:05,414] {logging_mixin.py:109} INFO - [2022-06-16 12:30:05,413] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:30:05,424] {logging_mixin.py:109} INFO - [2022-06-16 12:30:05,424] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:30:05,437] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.412 seconds
+[2022-06-16 12:30:37,669] {processor.py:163} INFO - Started process (PID=11349) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:30:37,671] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 12:30:37,671] {logging_mixin.py:109} INFO - [2022-06-16 12:30:37,671] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:30:38,046] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 12:30:38,055] {logging_mixin.py:109} INFO - [2022-06-16 12:30:38,055] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 12:30:38,065] {logging_mixin.py:109} INFO - [2022-06-16 12:30:38,065] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 12:30:38,078] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.411 seconds
+[2022-06-16 13:53:28,011] {processor.py:163} INFO - Started process (PID=7403) to work on /home/notme/airflow/dags/a_dag.py
+[2022-06-16 13:53:28,013] {processor.py:642} INFO - Processing file /home/notme/airflow/dags/a_dag.py for tasks to queue
+[2022-06-16 13:53:28,013] {logging_mixin.py:109} INFO - [2022-06-16 13:53:28,013] {dagbag.py:500} INFO - Filling up the DagBag from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 13:53:28,514] {processor.py:652} INFO - DAG(s) dict_keys(['a_dag']) retrieved from /home/notme/airflow/dags/a_dag.py
+[2022-06-16 13:53:28,522] {logging_mixin.py:109} INFO - [2022-06-16 13:53:28,522] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-06-16 13:53:28,532] {logging_mixin.py:109} INFO - [2022-06-16 13:53:28,532] {dag.py:2937} INFO - Setting next_dagrun for a_dag to None
+[2022-06-16 13:53:28,545] {processor.py:171} INFO - Processing /home/notme/airflow/dags/a_dag.py took 0.536 seconds
